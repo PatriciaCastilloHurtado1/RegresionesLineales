@@ -9,4 +9,4 @@
 * c)Test de linealidad
 * d) Test de Heteroscedasticidad
 * e) Test de Normalidad de los residuos
-6) Enfoque Data Science
+5) Enfoque Data Science
